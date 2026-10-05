@@ -1,4 +1,4 @@
-# WGU D277 – Front-End Web Development
+## Front end web development project
 
 A multi-page responsive web application developed as part of the Software Engineering program at Western Governors University. This project highlights modern HTML and CSS structuring, clean layout design, and targeted city data presentation.
 
